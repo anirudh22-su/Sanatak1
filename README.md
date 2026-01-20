@@ -59,6 +59,8 @@ whoami
 ```
 
 ---
+<img width="1075" height="166" alt="image" src="https://github.com/user-attachments/assets/4f247fb8-4cf0-4fa4-ac96-d8cabeaabe97" />
+
 
 ## 3. Procedure
 
